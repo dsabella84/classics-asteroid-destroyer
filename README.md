@@ -1,5 +1,7 @@
 # classics-asteroid-destroyer
 
+Link to play: https://dsabella84.itch.io/classics-asteroids
+
 ![TitleScreen_v1 0 0](https://user-images.githubusercontent.com/7503629/201393199-42f11a07-2444-436a-80db-2d78cc4e7391.PNG)
 
 Controls:
